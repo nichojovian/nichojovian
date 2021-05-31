@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nichojovian
+- 👋 Hi, I’m Nicho
 - 👀 I’m interested in javascript, python, c++
 - 🌱 I’m currently learning java and python
 - 💞️ I’m looking to collaborate on my project work
